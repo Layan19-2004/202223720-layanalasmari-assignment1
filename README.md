@@ -41,18 +41,19 @@ The website includes:
 
 ## Project Structure
 
+```
 assignment-1/
 │
 ├── index.html
 ├── css/
-│ └── styles.css
+│   └── styles.css
 ├── js/
-│ └── script.js
+│   └── script.js
 ├── docs/
-│ ├── ai-usage-report.md
-│ └── technical-documentation.md
+│   ├── ai-usage-report.md
+│   └── technical-documentation.md
 └── .gitignore
-
+```
 
 This structure follows separation of concerns principles by separating structure, styling, and behavior into different files.
 
