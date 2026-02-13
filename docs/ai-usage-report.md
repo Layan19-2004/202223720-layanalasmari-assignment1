@@ -88,7 +88,6 @@ Through the responsible use of AI tools, I strengthened my understanding of:
 - How to use JavaScript event listeners and DOM manipulation.
 - How to dynamically create and insert elements into the webpage.
 
-
 ---
 
 ## Responsible Use and Modifications
@@ -96,8 +95,6 @@ Through the responsible use of AI tools, I strengthened my understanding of:
 All AI-generated suggestions were carefully reviewed, tested, and modified before implementation. 
 The final code, structure, and documentation reflect my own understanding and decisions. 
 AI was used as a support tool for learning and refinement rather than as a replacement for independent work.
-ation of concerns.
-- How to review and refine AI-generated content critically.
 
 ## Responsible Use and Modifications
 
