@@ -1,4 +1,5 @@
-# 202223720-LayanAlasmari-Assignment1
+
+# 202223720-layanalasmari-assignment1
 
 ## Project Description
 This project is a simple, responsive personal portfolio website built using HTML, CSS, and JavaScript. 
