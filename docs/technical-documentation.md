@@ -1,7 +1,7 @@
 # Technical Documentation
 
 ## Technologies Used
-- **HTML5**: Builds the structure of the portfolio website (sections, navigation, content).
+- **HTML5**: Builds the structure of the portfolio website (sections, sssnavigation, content).
 - **CSS3**: Styles the website layout, typography, colors, and responsiveness.
   - Uses **Flexbox** for navigation layout.
   - Uses **media queries** for mobile responsiveness.

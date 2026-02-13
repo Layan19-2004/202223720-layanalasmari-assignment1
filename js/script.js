@@ -24,4 +24,7 @@ const greetingEl = document.createElement('p');
 greetingEl.textContent = greeting;
 greetingEl.style.marginTop = "10px";
 
-header.appendChild(greetingEl);
+if (header) {
+    header.appendChild(greetingEl);
+}
+
